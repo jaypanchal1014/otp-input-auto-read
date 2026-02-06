@@ -19,7 +19,7 @@ A fully customizable OTP input widget with SMS auto-read support for Flutter.
 ## Preview 
 
 
-![otp_demo](https://github.com/user-attachments/assets/b0012c86-2ad8-44d1-9bf0-799bea3b2e7d)
+
 
 
 
